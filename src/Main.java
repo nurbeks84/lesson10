@@ -5,6 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int o = sc.nextInt();
         int x = 0;
+
         while (x < o) {
             if (x != 0) {
                 System.out.println(x);
