@@ -7,6 +7,7 @@ public class Main {
         int of = sc.nextInt();
         int x = 0;
         int f = 0;
+        int fп = 0;
 
         while (x < o) {
             if (x != 0) {
